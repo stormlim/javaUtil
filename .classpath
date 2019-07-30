@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/aspose.slides-16.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/aspose-cells-18.9.jar"/>
+	<classpathentry kind="lib" path="lib/aspose-pdf-18.9.jar"/>
+	<classpathentry kind="lib" path="lib/aspose-words-18.9-jdk16.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="lib/javase-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/core-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.2.54.jar"/>
+	<classpathentry kind="lib" path="lib/java-sdk-4.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/json-20180130.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
